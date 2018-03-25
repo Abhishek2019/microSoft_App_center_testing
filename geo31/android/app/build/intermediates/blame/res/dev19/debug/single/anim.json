@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\e879b528e335a83a10fab5a85a737f767c7c0257\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\e879b528e335a83a10fab5a85a737f767c7c0257\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\e879b528e335a83a10fab5a85a737f767c7c0257\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\e879b528e335a83a10fab5a85a737f767c7c0257\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\cycle.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\fc13f639650ad31e8970af9cb3f2052e14bf1903\\output\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\shake.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\fc13f639650ad31e8970af9cb3f2052e14bf1903\\output\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\c2e9ebe7119dd3cc80b47b45eaac13d56e649494\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\anim\\catalyst_push_up_out.xml"
+    }
+]

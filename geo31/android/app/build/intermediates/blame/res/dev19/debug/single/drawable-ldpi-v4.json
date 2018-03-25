@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\d77f23dc8f463d5272af440d4166cf60742f1b81\\output\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    }
+]

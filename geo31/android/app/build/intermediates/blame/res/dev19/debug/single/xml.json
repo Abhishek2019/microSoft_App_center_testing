@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_classic.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\xml\\stub_classic.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_material.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\xml\\stub_material.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\7342fafca5f98a65402e97da10219272bd757f76\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\global_tracker.xml",
+        "source": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\generated\\res\\google-services\\dev19\\debug\\xml\\global_tracker.xml"
+    }
+]

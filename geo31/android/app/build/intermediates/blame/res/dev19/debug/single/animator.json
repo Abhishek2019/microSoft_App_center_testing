@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "E:\\my_git\\microSoft_AppCenter\\microSoft_App_center_testing\\geo31\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\prasanna\\.android\\build-cache\\b04967682ed6d27e6788477d32f8e34d592b07c2\\output\\res\\animator\\card_flip_left_in.xml"
+    }
+]
